@@ -46,9 +46,7 @@ Some form of interpretability.
 
 - Sagar Gupta
 
-## **Acknowledgement**
 
-- Applied AI Course
 
 
 
